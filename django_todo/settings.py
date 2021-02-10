@@ -26,7 +26,7 @@ SECRET_KEY = '2_m4d$j9oh9cc0c-mkrr-aq@k1v7)lot4q2b_ydcb1^n(578-z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['obscure-falls-30755.herokuapp.com']
 
 
 # Application definition
